@@ -12,7 +12,7 @@ The model has analyzed 50,000+ data points from the 2025 NFL Season.
 
 Drumroll please... 🥁
 
-🏆 SEATTLE SEAHAWKS 🏆
+🏆 **SEATTLE SEAHAWKS** 🏆
 
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/94d0fab6-95d8-4c87-9d2b-bdeaa3ab1368" />
 
