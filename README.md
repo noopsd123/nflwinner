@@ -57,11 +57,11 @@ Visualizing the probability spread and feature coefficients to explain the "Why"
 **🖼 Data Visualizations**
 1. The Win Probability Gap
 This chart shows the probability distribution between the Seahawks and the Patriots. ! 
-<img width="984" height="583" alt="image" src="https://github.com/user-attachments/assets/f23f5707-5396-43cc-a423-68e689328f73" />
+<img width="492" height="291" alt="image" src="https://github.com/user-attachments/assets/f23f5707-5396-43cc-a423-68e689328f73" />
 
 2. Feature Importance (The "Why")
 Which metrics actually decided the game? The model heavily favored 'Overall Point Differential' over 'Home Field Advantage'. !
-<img width="984" height="583" alt="image" src="https://github.com/user-attachments/assets/166a83de-6995-495d-bec0-05a8f7e8354e" />
+<img width="492" height="291" alt="image" src="https://github.com/user-attachments/assets/166a83de-6995-495d-bec0-05a8f7e8354e" />
 
 
 **💡 Strategic Recommendations**
