@@ -41,6 +41,8 @@ Model Baseline Accuracy: 54.5% (Validated against 2025 regular-season volatility
 
 
 🛠 **Tech Stack & Methodology**
+
+
 Data Source: nfl_data_py (Play-by-play data, >50,000 records).
 
 
