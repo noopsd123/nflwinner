@@ -82,7 +82,7 @@ Refine the Model: Future iterations should incorporate Turnover Margin and Red Z
 
 
 **📂 Project Structure**
-NFL_Super_Bowl_Winner.ipynb: The full data pipeline, from ingestion to prediction.
+NFL_Super_Bowl_Winner.ipynb: The full data pipeline, from importing the data to prediction.
 
 /visualizations: High-res exports of model insights for stakeholders.
 
