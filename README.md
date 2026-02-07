@@ -72,6 +72,7 @@ Which metrics actually decided the game? The model heavily favored 'Overall Poin
 
 
 **💡 Strategic Recommendations**
+
 Exploit the Defensive Trend: Seattle’s win probability is driven by a late-season surge in offensive efficiency. Analysts should look for New England to struggle if they cannot disrupt Seattle’s early-down passing rhythm.
 
 Refine the Model: Future iterations should incorporate Turnover Margin and Red Zone Efficiency as rolling metrics to further separate "lucky" wins from sustainable team performance.
