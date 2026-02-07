@@ -21,8 +21,8 @@ Predicted Win Probability: 60.7% The New England Patriots trail with a 39.3% pro
 
 
 
-**📈 Executive-Driven Questions I solved:
-**
+**📈 Executive-Driven Questions I solved:**
+
 1. How do we objectively measure a team’s current strength without using "future" season averages that cause data leakage?
 
 2. Which specific game phase (Seattle’s Offense vs. New England’s Defense) acts as the primary statistical anchor for the Super Bowl outcome?
