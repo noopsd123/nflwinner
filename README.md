@@ -6,9 +6,16 @@ In professional sports analytics, using full-season averages to predict a single
 The Result: The model identifies a significant efficiency gap, predicting a definitive winner based on defensive-to-offensive point differentials.
 
 🥁 AND THE WINNER IS...
+
 The model has analyzed 50,000+ data points from the 2025 NFL Season.
+
 Drumroll please... 🥁
-🏆 SEATTLE SEAHAWKS
+
+🏆 SEATTLE SEAHAWKS 🏆
+
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/94d0fab6-95d8-4c87-9d2b-bdeaa3ab1368" />
+
+
 Predicted Win Probability: 60.7% The New England Patriots trail with a 39.3% probability.
 
 📈 Executive-Driven Questions
