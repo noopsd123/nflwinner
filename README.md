@@ -6,7 +6,7 @@ In professional sports analytics, using full-season averages to predict a single
 The Result: The model identifies a significant efficiency gap, predicting a definitive winner based on defensive-to-offensive point differentials.
 
 
-🥁 AND THE WINNER IS...
+🥁 AND THE PREDICTED WINNER IS...
 
 The model has analyzed 50,000+ data points from the 2025 NFL Season.
 
